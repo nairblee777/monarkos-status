@@ -1,29 +1,29 @@
 owner: nairblee777
-  repo: monarkos-status
-  sites:
-    - name: MonarkOS App      
-      url: https://app.monarkos.com
-    - name: MonarkOS API      
-      url: https://api.monarkos.com/health
-    - name: Database
-      url: https://api.monarkos.com/health/db
-    - name: Hosting
-      url: https://api.monarkos.com/ping
-    - name: Stripe
-      url: https://status.stripe.com
-    - name: SMS
-      url: https://status.twilio.com
-    - name: Emails
-      url: https://status.mailgun.com
-    - name: Automations
-      url: https://automations.monarkrev.com
-    - name: Notification Emails
-      url: https://status.resend.com
-    - name: Chat
-      url: https://status.crisp.chat
-    - name: Storage
-      url: https://www.cloudflarestatus.com
-  status-website:
+repo: monarkos-status
+sites:
+  - name: MonarkOS App      
+    url: https://app.monarkos.com
+  - name: MonarkOS API      
+    url: https://api.monarkos.com/health
+  - name: Database
+    url: https://api.monarkos.com/health/db
+  - name: Hosting
+    url: https://api.monarkos.com/ping
+  - name: Stripe
+    url: https://status.stripe.com
+  - name: SMS
+    url: https://status.twilio.com
+  - name: Emails
+    url: https://status.mailgun.com
+  - name: Automations
+    url: https://automations.monarkrev.com
+  - name: Notification Emails
+    url: https://status.resend.com
+  - name: Chat
+    url: https://status.crisp.chat
+  - name: Storage
+    url: https://www.cloudflarestatus.com
+status-website:
     cname: status.monarkos.com
     name: MonarkOS Status
     theme: dark
