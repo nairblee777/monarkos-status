@@ -4,20 +4,21 @@
     "url": "https://app.monarkos.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
-    "status": "up",
-    "uptime": "82.29%",
-    "uptimeDay": "54.21%",
-    "uptimeWeek": "82.29%",
-    "uptimeMonth": "82.29%",
-    "uptimeYear": "82.29%",
+    "status": "down",
+    "uptime": "83.75%",
+    "uptimeDay": "70.88%",
+    "uptimeWeek": "83.75%",
+    "uptimeMonth": "83.75%",
+    "uptimeYear": "83.75%",
     "time": 548,
-    "timeDay": 565,
+    "timeDay": 659,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2026-06-04": 761,
-      "2026-06-03": 250
+      "2026-06-03": 250,
+      "2026-06-05": 20
     }
   },
   {
@@ -25,20 +26,21 @@
     "url": "https://api.monarkos.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
-    "status": "up",
-    "uptime": "82.71%",
-    "uptimeDay": "55.22%",
-    "uptimeWeek": "82.71%",
-    "uptimeMonth": "82.71%",
-    "uptimeYear": "82.71%",
+    "status": "down",
+    "uptime": "84.21%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "84.21%",
+    "uptimeMonth": "84.21%",
+    "uptimeYear": "84.21%",
     "time": 262,
-    "timeDay": 291,
+    "timeDay": 364,
     "timeWeek": 262,
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2026-06-04": 741,
-      "2026-06-03": 245
+      "2026-06-03": 245,
+      "2026-06-05": 15
     }
   },
   {
@@ -46,20 +48,21 @@
     "url": "https://api.monarkos.com/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
-    "status": "up",
-    "uptime": "83.14%",
-    "uptimeDay": "56.22%",
-    "uptimeWeek": "83.14%",
-    "uptimeMonth": "83.14%",
-    "uptimeYear": "83.14%",
+    "status": "down",
+    "uptime": "84.67%",
+    "uptimeDay": "72.90%",
+    "uptimeWeek": "84.67%",
+    "uptimeMonth": "84.67%",
+    "uptimeYear": "84.67%",
     "time": 217,
-    "timeDay": 264,
+    "timeDay": 213,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-06-04": 723,
-      "2026-06-03": 240
+      "2026-06-03": 240,
+      "2026-06-05": 11
     }
   },
   {
@@ -67,20 +70,21 @@
     "url": "https://api.monarkos.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
-    "status": "up",
-    "uptime": "83.56%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "83.56%",
-    "uptimeMonth": "83.56%",
-    "uptimeYear": "83.56%",
+    "status": "down",
+    "uptime": "85.13%",
+    "uptimeDay": "73.91%",
+    "uptimeWeek": "85.13%",
+    "uptimeMonth": "85.13%",
+    "uptimeYear": "85.13%",
     "time": 234,
-    "timeDay": 280,
+    "timeDay": 392,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2026-06-04": 703,
-      "2026-06-03": 236
+      "2026-06-03": 236,
+      "2026-06-05": 6
     }
   },
   {
@@ -106,19 +110,20 @@
     "url": "https://status.twilio.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.twilio.com.ico",
     "slug": "sms",
-    "status": "up",
-    "uptime": "94.95%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "94.95%",
-    "time": 136,
-    "timeDay": 139,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "down",
+    "uptime": "95.38%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "95.38%",
+    "time": 123,
+    "timeDay": 113,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-06-04": 288
+      "2026-06-04": 288,
+      "2026-06-05": 5
     }
   },
   {
@@ -126,19 +131,20 @@
     "url": "https://status.mailgun.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.mailgun.com.ico",
     "slug": "emails",
-    "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "85.76%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
-    "time": 164,
-    "timeDay": 191,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "status": "down",
+    "uptime": "95.38%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "95.38%",
+    "time": 147,
+    "timeDay": 154,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2026-06-04": 288
+      "2026-06-04": 288,
+      "2026-06-05": 5
     }
   },
   {
@@ -146,20 +152,21 @@
     "url": "https://automations.monarkrev.com",
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
-    "status": "up",
-    "uptime": "83.99%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "83.99%",
-    "uptimeMonth": "83.99%",
-    "uptimeYear": "83.99%",
+    "status": "down",
+    "uptime": "85.60%",
+    "uptimeDay": "74.95%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "85.60%",
+    "uptimeYear": "85.60%",
     "time": 251,
-    "timeDay": 265,
+    "timeDay": 298,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2026-06-04": 683,
-      "2026-06-03": 231
+      "2026-06-03": 231,
+      "2026-06-05": 0
     }
   },
   {
@@ -203,19 +210,20 @@
     "url": "https://www.cloudflarestatus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "storage",
-    "status": "up",
-    "uptime": "95.14%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.14%",
-    "time": 154,
-    "timeDay": 147,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "95.62%",
+    "time": 150,
+    "timeDay": 117,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-06-04": 278
+      "2026-06-04": 278,
+      "2026-06-05": 0
     }
   }
 ]
