@@ -1,7 +1,7 @@
 url: https://api.monarkos.com/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-10T10:40:14.538Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2026-06-10T16:52:35.268Z
 startTime: 2026-06-01T04:14:42.423Z
 generator: Upptime <https://github.com/upptime/upptime>
