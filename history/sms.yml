@@ -1,7 +1,7 @@
 url: https://status.twilio.com
-status: down
-code: 405
-responseTime: 21
-lastUpdated: 2026-06-11T18:17:37.217Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2026-06-11T20:19:11.128Z
 startTime: 2026-06-01T04:14:43.130Z
 generator: Upptime <https://github.com/upptime/upptime>
