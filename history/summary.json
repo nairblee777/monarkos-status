@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
     "status": "down",
-    "uptime": "72.09%",
-    "uptimeDay": "78.32%",
-    "uptimeWeek": "66.33%",
-    "uptimeMonth": "72.09%",
-    "uptimeYear": "72.09%",
+    "uptime": "72.03%",
+    "uptimeDay": "77.37%",
+    "uptimeWeek": "66.19%",
+    "uptimeMonth": "72.03%",
+    "uptimeYear": "72.03%",
     "time": 506,
     "timeDay": 341,
     "timeWeek": 483,
@@ -25,7 +25,7 @@
       "2026-06-09": 217,
       "2026-06-10": 763,
       "2026-06-11": 136,
-      "2026-06-12": 176
+      "2026-06-12": 190
     }
   },
   {
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
     "status": "down",
-    "uptime": "72.71%",
-    "uptimeDay": "78.99%",
-    "uptimeWeek": "67.05%",
-    "uptimeMonth": "72.71%",
-    "uptimeYear": "72.71%",
+    "uptime": "72.64%",
+    "uptimeDay": "78.04%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "72.64%",
+    "uptimeYear": "72.64%",
     "time": 237,
     "timeDay": 258,
     "timeWeek": 224,
@@ -54,7 +54,7 @@
       "2026-06-09": 212,
       "2026-06-10": 748,
       "2026-06-11": 131,
-      "2026-06-12": 171
+      "2026-06-12": 185
     }
   },
   {
@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
     "status": "down",
-    "uptime": "73.32%",
-    "uptimeDay": "79.66%",
-    "uptimeWeek": "67.77%",
-    "uptimeMonth": "73.32%",
-    "uptimeYear": "73.32%",
+    "uptime": "73.25%",
+    "uptimeDay": "78.72%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "73.25%",
+    "uptimeYear": "73.25%",
     "time": 193,
     "timeDay": 224,
     "timeWeek": 181,
@@ -83,7 +83,7 @@
       "2026-06-09": 207,
       "2026-06-10": 733,
       "2026-06-11": 127,
-      "2026-06-12": 166
+      "2026-06-12": 180
     }
   },
   {
@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
     "status": "down",
-    "uptime": "74.00%",
-    "uptimeDay": "80.34%",
-    "uptimeWeek": "68.60%",
-    "uptimeMonth": "74.00%",
-    "uptimeYear": "74.00%",
+    "uptime": "73.94%",
+    "uptimeDay": "79.39%",
+    "uptimeWeek": "68.46%",
+    "uptimeMonth": "73.94%",
+    "uptimeYear": "73.94%",
     "time": 213,
     "timeDay": 222,
     "timeWeek": 203,
@@ -112,7 +112,7 @@
       "2026-06-09": 202,
       "2026-06-10": 718,
       "2026-06-11": 122,
-      "2026-06-12": 161
+      "2026-06-12": 175
     }
   },
   {
@@ -139,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.twilio.com.ico",
     "slug": "sms",
     "status": "down",
-    "uptime": "90.61%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "88.15%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "90.61%",
+    "uptime": "90.53%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "90.53%",
     "time": 154,
     "timeDay": 132,
     "timeWeek": 160,
@@ -157,7 +157,7 @@
       "2026-06-08": 188,
       "2026-06-10": 238,
       "2026-06-11": 122,
-      "2026-06-12": 5
+      "2026-06-12": 19
     }
   },
   {
@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.mailgun.com.ico",
     "slug": "emails",
     "status": "down",
-    "uptime": "90.62%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "88.17%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "90.62%",
+    "uptime": "90.54%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "90.54%",
     "time": 155,
     "timeDay": 134,
     "timeWeek": 153,
@@ -184,7 +184,7 @@
       "2026-06-08": 188,
       "2026-06-10": 238,
       "2026-06-11": 121,
-      "2026-06-12": 5
+      "2026-06-12": 19
     }
   },
   {
@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
     "status": "down",
-    "uptime": "74.60%",
-    "uptimeDay": "81.03%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "74.60%",
-    "uptimeYear": "74.60%",
+    "uptime": "74.53%",
+    "uptimeDay": "80.09%",
+    "uptimeWeek": "69.15%",
+    "uptimeMonth": "74.53%",
+    "uptimeYear": "74.53%",
     "time": 265,
     "timeDay": 240,
     "timeWeek": 272,
@@ -213,7 +213,7 @@
       "2026-06-09": 198,
       "2026-06-10": 704,
       "2026-06-11": 117,
-      "2026-06-12": 157
+      "2026-06-12": 170
     }
   },
   {
@@ -258,11 +258,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "storage",
     "status": "down",
-    "uptime": "92.32%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "92.32%",
+    "uptime": "92.24%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 156,
     "timeDay": 116,
     "timeWeek": 157,
@@ -275,7 +275,7 @@
       "2026-06-07": 266,
       "2026-06-08": 186,
       "2026-06-11": 116,
-      "2026-06-12": 0
+      "2026-06-12": 14
     }
   }
 ]
