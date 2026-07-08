@@ -4,11 +4,11 @@
     "url": "https://app.monarkos.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
-    "status": "up",
+    "status": "down",
     "uptime": "78.06%",
-    "uptimeDay": "79.19%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "79.52%",
+    "uptimeDay": "77.82%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "79.51%",
     "uptimeYear": "78.06%",
     "time": 496,
     "timeDay": 520,
@@ -45,7 +45,8 @@
       "2026-06-30": 380,
       "2026-07-02": 338,
       "2026-07-03": 126,
-      "2026-07-07": 300
+      "2026-07-07": 319,
+      "2026-07-08": 1
     }
   },
   {
@@ -53,10 +54,10 @@
     "url": "https://api.monarkos.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
-    "status": "up",
+    "status": "down",
     "uptime": "78.62%",
-    "uptimeDay": "79.86%",
-    "uptimeWeek": "92.72%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "92.57%",
     "uptimeMonth": "80.07%",
     "uptimeYear": "78.62%",
     "time": 239,
@@ -94,7 +95,8 @@
       "2026-06-30": 366,
       "2026-07-02": 328,
       "2026-07-03": 117,
-      "2026-07-07": 290
+      "2026-07-07": 304,
+      "2026-07-08": 1
     }
   },
   {
@@ -102,12 +104,12 @@
     "url": "https://api.monarkos.com/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
-    "status": "up",
-    "uptime": "78.96%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "93.00%",
+    "status": "down",
+    "uptime": "78.97%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "92.91%",
     "uptimeMonth": "80.36%",
-    "uptimeYear": "78.96%",
+    "uptimeYear": "78.97%",
     "time": 206,
     "timeDay": 192,
     "timeWeek": 142,
@@ -143,7 +145,8 @@
       "2026-06-30": 476,
       "2026-07-02": 318,
       "2026-07-03": 107,
-      "2026-07-07": 280
+      "2026-07-07": 289,
+      "2026-07-08": 1
     }
   },
   {
@@ -151,12 +154,12 @@
     "url": "https://api.monarkos.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
-    "status": "up",
-    "uptime": "79.76%",
-    "uptimeDay": "81.20%",
-    "uptimeWeek": "93.29%",
-    "uptimeMonth": "81.21%",
-    "uptimeYear": "79.76%",
+    "status": "down",
+    "uptime": "79.78%",
+    "uptimeDay": "80.85%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "81.20%",
+    "uptimeYear": "79.78%",
     "time": 206,
     "timeDay": 222,
     "timeWeek": 154,
@@ -192,7 +195,8 @@
       "2026-06-30": 338,
       "2026-07-02": 308,
       "2026-07-03": 97,
-      "2026-07-07": 271
+      "2026-07-07": 275,
+      "2026-07-08": 1
     }
   },
   {
@@ -219,15 +223,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.twilio.com.ico",
     "slug": "sms",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "95.90%",
     "time": 168,
     "timeDay": 108,
     "timeWeek": 155,
-    "timeMonth": 185,
+    "timeMonth": 179,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-06-04": 288,
@@ -251,12 +255,12 @@
     "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.99%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "95.90%",
     "time": 172,
     "timeDay": 158,
     "timeWeek": 210,
-    "timeMonth": 180,
+    "timeMonth": 179,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-06-04": 288,
@@ -276,12 +280,12 @@
     "url": "https://automations.monarkrev.com",
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
-    "status": "up",
-    "uptime": "80.08%",
-    "uptimeDay": "81.88%",
+    "status": "down",
+    "uptime": "80.11%",
+    "uptimeDay": "81.86%",
     "uptimeWeek": "93.58%",
     "uptimeMonth": "81.47%",
-    "uptimeYear": "80.08%",
+    "uptimeYear": "80.11%",
     "time": 284,
     "timeDay": 319,
     "timeWeek": 266,
@@ -317,7 +321,8 @@
       "2026-06-30": 457,
       "2026-07-02": 298,
       "2026-07-03": 87,
-      "2026-07-07": 261
+      "2026-07-07": 261,
+      "2026-07-08": 0
     }
   },
   {
@@ -365,7 +370,7 @@
     "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.56%",
+    "uptimeMonth": "97.73%",
     "uptimeYear": "96.41%",
     "time": 175,
     "timeDay": 161,
