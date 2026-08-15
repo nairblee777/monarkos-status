@@ -6,9 +6,9 @@
     "slug": "monark-os-app",
     "status": "down",
     "uptime": "91.61%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "86.58%",
-    "uptimeMonth": "88.25%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "88.24%",
     "uptimeYear": "91.61%",
     "time": 504,
     "timeDay": 519,
@@ -61,7 +61,7 @@
       "2026-08-12": 83,
       "2026-08-13": 179,
       "2026-08-14": 114,
-      "2026-08-15": 20
+      "2026-08-15": 22
     }
   },
   {
@@ -71,9 +71,9 @@
     "slug": "monark-os-api",
     "status": "down",
     "uptime": "92.07%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "89.31%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "87.80%",
+    "uptimeMonth": "89.30%",
     "uptimeYear": "92.07%",
     "time": 244,
     "timeDay": 315,
@@ -125,7 +125,7 @@
       "2026-08-12": 74,
       "2026-08-13": 164,
       "2026-08-14": 99,
-      "2026-08-15": 15
+      "2026-08-15": 17
     }
   },
   {
@@ -135,9 +135,9 @@
     "slug": "database",
     "status": "down",
     "uptime": "90.89%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "90.19%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "89.46%",
+    "uptimeMonth": "90.18%",
     "uptimeYear": "90.89%",
     "time": 204,
     "timeDay": 143,
@@ -194,7 +194,7 @@
       "2026-08-12": 54,
       "2026-08-13": 149,
       "2026-08-14": 64,
-      "2026-08-15": 10
+      "2026-08-15": 12
     }
   },
   {
@@ -204,8 +204,8 @@
     "slug": "hosting",
     "status": "down",
     "uptime": "90.56%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "90.79%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "90.76%",
     "uptimeMonth": "90.97%",
     "uptimeYear": "90.56%",
     "time": 203,
@@ -264,7 +264,7 @@
       "2026-08-12": 49,
       "2026-08-13": 135,
       "2026-08-14": 59,
-      "2026-08-15": 5
+      "2026-08-15": 8
     }
   },
   {
@@ -356,9 +356,9 @@
     "slug": "automations",
     "status": "down",
     "uptime": "87.91%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "85.41%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "85.40%",
     "uptimeYear": "87.91%",
     "time": 267,
     "timeDay": 186,
@@ -419,7 +419,7 @@
       "2026-08-12": 44,
       "2026-08-13": 120,
       "2026-08-14": 54,
-      "2026-08-15": 0
+      "2026-08-15": 3
     }
   },
   {
