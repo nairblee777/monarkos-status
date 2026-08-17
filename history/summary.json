@@ -4,17 +4,17 @@
     "url": "https://app.monarkos.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
-    "status": "down",
-    "uptime": "93.20%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "88.31%",
-    "uptimeMonth": "87.79%",
-    "uptimeYear": "93.20%",
-    "time": 506,
-    "timeDay": 491,
-    "timeWeek": 503,
-    "timeMonth": 512,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "93.16%",
+    "uptimeDay": "84.89%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.71%",
+    "uptimeYear": "93.16%",
+    "time": 505,
+    "timeDay": 459,
+    "timeWeek": 496,
+    "timeMonth": 510,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2026-06-28": 91,
       "2026-06-29": 68,
@@ -57,7 +57,7 @@
       "2026-08-14": 114,
       "2026-08-15": 232,
       "2026-08-16": 160,
-      "2026-08-17": 20
+      "2026-08-17": 58
     }
   },
   {
@@ -65,17 +65,17 @@
     "url": "https://api.monarkos.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
-    "status": "down",
-    "uptime": "93.70%",
-    "uptimeDay": "89.57%",
-    "uptimeWeek": "89.65%",
-    "uptimeMonth": "88.98%",
-    "uptimeYear": "93.70%",
-    "time": 244,
-    "timeDay": 216,
-    "timeWeek": 232,
+    "status": "up",
+    "uptime": "93.67%",
+    "uptimeDay": "86.91%",
+    "uptimeWeek": "89.27%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "93.67%",
+    "time": 243,
+    "timeDay": 210,
+    "timeWeek": 230,
     "timeMonth": 253,
-    "timeYear": 244,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2026-06-28": 139,
       "2026-06-29": 63,
@@ -117,7 +117,7 @@
       "2026-08-14": 99,
       "2026-08-15": 192,
       "2026-08-16": 135,
-      "2026-08-17": 15
+      "2026-08-17": 53
     }
   },
   {
@@ -125,16 +125,16 @@
     "url": "https://api.monarkos.com/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
-    "status": "down",
-    "uptime": "91.53%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "92.27%",
-    "uptimeMonth": "90.20%",
-    "uptimeYear": "91.53%",
+    "status": "up",
+    "uptime": "91.50%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "91.89%",
+    "uptimeMonth": "90.11%",
+    "uptimeYear": "91.50%",
     "time": 204,
     "timeDay": 180,
-    "timeWeek": 199,
-    "timeMonth": 205,
+    "timeWeek": 198,
+    "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-06-19": 710,
@@ -186,7 +186,7 @@
       "2026-08-14": 64,
       "2026-08-15": 92,
       "2026-08-16": 76,
-      "2026-08-17": 10
+      "2026-08-17": 48
     }
   },
   {
@@ -194,15 +194,15 @@
     "url": "https://api.monarkos.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
-    "status": "down",
-    "uptime": "91.63%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "93.18%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "91.63%",
+    "status": "up",
+    "uptime": "91.60%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "91.60%",
     "time": 205,
-    "timeDay": 217,
-    "timeWeek": 202,
+    "timeDay": 209,
+    "timeWeek": 201,
     "timeMonth": 206,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
       "2026-08-14": 59,
       "2026-08-15": 68,
       "2026-08-16": 67,
-      "2026-08-17": 5
+      "2026-08-17": 43
     }
   },
   {
@@ -346,17 +346,17 @@
     "url": "https://automations.monarkrev.com",
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
-    "status": "down",
-    "uptime": "88.53%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "93.91%",
+    "status": "up",
+    "uptime": "88.50%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "93.52%",
     "uptimeMonth": "90.32%",
-    "uptimeYear": "88.53%",
-    "time": 267,
-    "timeDay": 259,
-    "timeWeek": 242,
-    "timeMonth": 255,
-    "timeYear": 267,
+    "uptimeYear": "88.50%",
+    "time": 266,
+    "timeDay": 245,
+    "timeWeek": 240,
+    "timeMonth": 254,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2026-06-14": 80,
       "2026-06-13": 77,
@@ -412,7 +412,7 @@
       "2026-08-14": 54,
       "2026-08-15": 63,
       "2026-08-16": 57,
-      "2026-08-17": 0
+      "2026-08-17": 39
     }
   },
   {
