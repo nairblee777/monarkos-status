@@ -197,17 +197,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
     "status": "up",
-    "uptime": "91.96%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "91.96%",
+    "uptime": "91.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "91.89%",
     "time": 205,
     "timeDay": 137,
     "timeWeek": 211,
     "timeMonth": 204,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2026-06-16": 103,
       "2026-06-17": 201,
       "2026-06-18": 491,
       "2026-06-19": 710,
@@ -257,8 +258,7 @@
       "2026-08-14": 59,
       "2026-08-15": 68,
       "2026-08-16": 67,
-      "2026-08-17": 43,
-      "2026-08-20": 13
+      "2026-08-17": 43
     }
   },
   {
@@ -349,18 +349,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
     "status": "up",
-    "uptime": "88.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "88.96%",
+    "uptime": "88.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "88.90%",
     "time": 264,
     "timeDay": 151,
     "timeWeek": 233,
     "timeMonth": 245,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-06-14": 72,
+      "2026-06-14": 80,
+      "2026-06-13": 77,
       "2026-06-15": 931,
       "2026-06-16": 98,
       "2026-06-17": 191,
@@ -413,8 +414,7 @@
       "2026-08-14": 54,
       "2026-08-15": 63,
       "2026-08-16": 57,
-      "2026-08-17": 39,
-      "2026-08-20": 8
+      "2026-08-17": 39
     }
   },
   {
