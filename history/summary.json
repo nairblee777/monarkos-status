@@ -4,16 +4,16 @@
     "url": "https://app.monarkos.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
-    "status": "down",
-    "uptime": "95.41%",
-    "uptimeDay": "68.56%",
-    "uptimeWeek": "84.75%",
-    "uptimeMonth": "88.58%",
-    "uptimeYear": "95.41%",
+    "status": "up",
+    "uptime": "95.33%",
+    "uptimeDay": "67.59%",
+    "uptimeWeek": "84.03%",
+    "uptimeMonth": "88.32%",
+    "uptimeYear": "95.33%",
     "time": 516,
-    "timeDay": 620,
-    "timeWeek": 573,
-    "timeMonth": 527,
+    "timeDay": 563,
+    "timeWeek": 580,
+    "timeMonth": 526,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-07-26": 223,
@@ -49,7 +49,7 @@
       "2026-08-26": 347,
       "2026-08-27": 424,
       "2026-08-29": 130,
-      "2026-08-30": 355
+      "2026-08-30": 467
     }
   },
   {
@@ -57,15 +57,15 @@
     "url": "https://api.monarkos.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
-    "status": "down",
-    "uptime": "95.85%",
-    "uptimeDay": "69.23%",
-    "uptimeWeek": "85.62%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "95.85%",
+    "status": "up",
+    "uptime": "95.76%",
+    "uptimeDay": "68.26%",
+    "uptimeWeek": "84.80%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "95.76%",
     "time": 249,
-    "timeDay": 332,
-    "timeWeek": 268,
+    "timeDay": 287,
+    "timeWeek": 271,
     "timeMonth": 256,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
       "2026-08-26": 332,
       "2026-08-27": 419,
       "2026-08-29": 125,
-      "2026-08-30": 345
+      "2026-08-30": 457
     }
   },
   {
@@ -111,15 +111,15 @@
     "url": "https://api.monarkos.com/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
-    "status": "down",
-    "uptime": "93.96%",
-    "uptimeDay": "69.90%",
-    "uptimeWeek": "87.41%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "93.96%",
+    "status": "up",
+    "uptime": "93.88%",
+    "uptimeDay": "68.93%",
+    "uptimeWeek": "86.29%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "93.88%",
     "time": 209,
-    "timeDay": 306,
-    "timeWeek": 231,
+    "timeDay": 284,
+    "timeWeek": 233,
     "timeMonth": 213,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2026-08-26": 317,
       "2026-08-27": 415,
       "2026-08-29": 120,
-      "2026-08-30": 335
+      "2026-08-30": 448
     }
   },
   {
@@ -182,16 +182,16 @@
     "url": "https://api.monarkos.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
-    "status": "down",
-    "uptime": "93.88%",
-    "uptimeDay": "70.57%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "93.88%",
+    "status": "up",
+    "uptime": "93.80%",
+    "uptimeDay": "69.60%",
+    "uptimeWeek": "86.88%",
+    "uptimeMonth": "91.96%",
+    "uptimeYear": "93.80%",
     "time": 208,
-    "timeDay": 229,
-    "timeWeek": 218,
-    "timeMonth": 213,
+    "timeDay": 203,
+    "timeWeek": 224,
+    "timeMonth": 212,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2026-06-26": 385,
@@ -244,7 +244,7 @@
       "2026-08-26": 302,
       "2026-08-27": 410,
       "2026-08-29": 115,
-      "2026-08-30": 325
+      "2026-08-30": 438
     }
   },
   {
@@ -334,15 +334,15 @@
     "url": "https://automations.monarkrev.com",
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
-    "status": "down",
-    "uptime": "91.35%",
-    "uptimeDay": "71.25%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "91.35%",
+    "status": "up",
+    "uptime": "91.27%",
+    "uptimeDay": "70.28%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "91.27%",
     "time": 267,
-    "timeDay": 298,
-    "timeWeek": 289,
+    "timeDay": 263,
+    "timeWeek": 292,
     "timeMonth": 255,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -400,7 +400,7 @@
       "2026-08-26": 288,
       "2026-08-27": 405,
       "2026-08-29": 110,
-      "2026-08-30": 315
+      "2026-08-30": 428
     }
   },
   {
