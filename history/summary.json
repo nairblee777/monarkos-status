@@ -4,19 +4,18 @@
     "url": "https://app.monarkos.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.monarkos.com.ico",
     "slug": "monark-os-app",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "96.57%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "96.58%",
     "time": 498,
     "timeDay": 480,
     "timeWeek": 316,
     "timeMonth": 402,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-08-02": 27,
       "2026-08-03": 208,
       "2026-08-04": 149,
       "2026-08-05": 185,
@@ -58,7 +57,8 @@
       "2026-10-14": 277,
       "2026-10-17": 237,
       "2026-10-22": 291,
-      "2026-10-24": 48
+      "2026-10-24": 48,
+      "2026-10-27": 20
     }
   },
   {
@@ -66,11 +66,11 @@
     "url": "https://api.monarkos.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "monark-os-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "96.80%",
     "time": 249,
     "timeDay": 182,
@@ -78,7 +78,6 @@
     "timeMonth": 262,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-08-02": 22,
       "2026-08-03": 203,
       "2026-08-04": 139,
       "2026-08-05": 175,
@@ -120,7 +119,8 @@
       "2026-10-14": 272,
       "2026-10-17": 232,
       "2026-10-22": 286,
-      "2026-10-24": 44
+      "2026-10-24": 44,
+      "2026-10-27": 15
     }
   },
   {
@@ -128,19 +128,19 @@
     "url": "https://api.monarkos.com/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "database",
-    "status": "up",
-    "uptime": "95.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "96.59%",
-    "uptimeYear": "95.77%",
+    "status": "down",
+    "uptime": "95.87%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "95.87%",
     "time": 212,
     "timeDay": 170,
     "timeWeek": 179,
     "timeMonth": 238,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-07-10": 250,
+      "2026-07-10": 43,
       "2026-07-11": 126,
       "2026-07-13": 94,
       "2026-07-15": 174,
@@ -196,7 +196,8 @@
       "2026-10-14": 267,
       "2026-10-17": 227,
       "2026-10-22": 282,
-      "2026-10-24": 39
+      "2026-10-24": 39,
+      "2026-10-27": 10
     }
   },
   {
@@ -204,19 +205,19 @@
     "url": "https://api.monarkos.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.monarkos.com.ico",
     "slug": "hosting",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "95.58%",
+    "status": "down",
+    "uptime": "95.63%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "95.63%",
     "time": 205,
     "timeDay": 118,
     "timeWeek": 172,
     "timeMonth": 227,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2026-06-30": 172,
+      "2026-06-30": 74,
       "2026-07-02": 308,
       "2026-07-03": 97,
       "2026-07-07": 275,
@@ -274,7 +275,8 @@
       "2026-10-14": 262,
       "2026-10-17": 222,
       "2026-10-22": 277,
-      "2026-10-24": 34
+      "2026-10-24": 34,
+      "2026-10-27": 5
     }
   },
   {
@@ -364,20 +366,19 @@
     "url": "https://automations.monarkrev.com",
     "icon": "https://icons.duckduckgo.com/ip3/automations.monarkrev.com.ico",
     "slug": "automations",
-    "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.24%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.01%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "94.23%",
+    "uptimeYear": "94.24%",
     "time": 259,
     "timeDay": 216,
     "timeWeek": 190,
     "timeMonth": 241,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2026-06-28": 348,
-      "2026-06-27": 18,
+      "2026-06-28": 345,
       "2026-06-29": 39,
       "2026-06-30": 457,
       "2026-07-02": 298,
@@ -436,7 +437,8 @@
       "2026-10-14": 257,
       "2026-10-17": 218,
       "2026-10-22": 272,
-      "2026-10-24": 29
+      "2026-10-24": 29,
+      "2026-10-27": 0
     }
   },
   {
